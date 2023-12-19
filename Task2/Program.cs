@@ -17,3 +17,10 @@ double pruduct3 = d1 * i1;
 Console.WriteLine(pruduct1);
 Console.WriteLine(pruduct2);
 Console.WriteLine(pruduct3);
+
+int qouient = i1 / i2;
+Console.WriteLine(qouient);
+
+d1 = 6;
+double qouient2 = i1 / d1;
+Console.WriteLine(qouient2);
